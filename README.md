@@ -3,7 +3,6 @@
 - 🏋🏽‍♂️ I also love spending my time at the gym.
 - 🌱 I’m currently learning full-stack development at Kalvium.
 - 📌 I'm currently based in Bangalore, India.
-- 💞️ I’m not currently looking to collaborate.
 - 📫 You can reach me on LinkedIn @ https://www.linkedin.com/in/heysajit
 
 <!---
