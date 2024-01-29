@@ -10,8 +10,9 @@ I'm a computer science student pursuing BCA (Hons.) at Kalvium in RV University,
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript and ES6
-- Full-stack Web Development
+– Exploring Python for versatile problem-solving.
+– Advancing skills in JavaScript and ES6 for dynamic web development.
+– Engaging in full-stack web development for a comprehensive skill set.
 
 ## 🌐 Connect with Me
 
