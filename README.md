@@ -18,7 +18,7 @@ I'm a computer science student pursuing BCA (Hons.) at Kalvium in RV University,
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/heysajit/)
-- [Twitter](https://twitter.com/tednotswarley)
+- [Instagram](https://www.instagram.com/riderprovidermav)
 
 ## ⚡ Hobbies and Interests
 
