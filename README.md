@@ -1,12 +1,12 @@
 # 👋🏽 Hi, I'm Sajit!
 
-I'm a computer science student pursuing BCA (Hons.) at Kalvium in RV University, passionate about leveraging technology to solve real-world problems. Currently, I'm diving deep into web development with a focus on building responsive and dynamic user interfaces using HTML, CSS, JavaScript, React, Tailwind, and Bootstrap. Additionally, I enjoy exploring the versatility of Python and C++ for various projects and problem-solving.
+I'm a computer science student pursuing a BCA (Hons.) at Kalvium in RV University. I'm passionate about leveraging technology to solve real-world problems. Currently, I'm diving deep into web development, focusing on building responsive and dynamic user interfaces using HTML, CSS, JavaScript, React, and Tailwind. Additionally, I enjoy exploring the versatility of Python and C++ for various projects and problem-solving.
 
 ## 🚀 Skills
 
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js, Tailwind, Bootstrap
 - **Programming Languages:** Python, C++
-- **Tools & Technologies:** Git, VS Code
+- **Tools & Technologies:** Git, VS Code, Zed
 
 ## 📚 Currently Learning
 
@@ -36,4 +36,4 @@ I'm a computer science student pursuing BCA (Hons.) at Kalvium in RV University,
 
 Feel free to explore my repositories for more projects and code samples.
 
-Let's connect and build something amazing together! 😊
+Let's connect and build something amazing together! :D
