@@ -34,6 +34,8 @@ I'm a computer science student pursuing a BCA (Hons.) at Kalvium in RV Universit
 
 - [Project 2](https://github.com/maverickOG/OTP-Verification/tree/main): Secure and sleek OTP Verification Form with a playful twist! Enter your 4-digit OTP, experience dynamic input fields, and unlock the fun.
 
+- [Project 3](https://github.com/maverickOG/Vendy): A virtual vending machine using C++, where you can purchase products from the many available options, until it goes out of stock.
+
 Feel free to explore my repositories for more projects and code samples.
 
 Let's connect and build something amazing together! :D
