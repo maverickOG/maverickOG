@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me
 🔭 **I’m currently working on**  <br>Building responsive and dynamic user interfaces using HTML, CSS, JavaScript, React, and Tailwind. Additionally, I’m diving into projects involving Python and C++ for problem-solving.<br><br>👯 **I’m looking to collaborate on**  <br>Exciting web development projects, especially those requiring innovative and intuitive UI/UX solutions.<br><br>🤝 **I’m looking for help with**  <br>Exploring advanced concepts in full-stack development and learning best practices for large-scale software development.<br><br>🌱 **I’m currently learning**  <br>Web development frameworks, improving my skills in React and Tailwind, and enhancing my problem-solving techniques with Python and C++.<br><br>💬 **Ask me about**  <br>Anything related to web development, Python, C++, and technology-driven solutions for real-world problems.<br><br>⚡ **Fun fact**  <br>I’m always curious about how things work and love breaking down complex problems into simple, solvable steps.
 
 ## ⚡ Hobbies and Interests
