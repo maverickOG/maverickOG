@@ -9,6 +9,8 @@
 - 🏍️ Riding my motorcycle
 - 📖 Reading
 
+## 👥 Contributions:
+[![An image of @maverickog's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maverickog)](https://holopin.io/@maverickog)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riderprovidermav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heysajit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tednotswarley) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/maverickOG) 
