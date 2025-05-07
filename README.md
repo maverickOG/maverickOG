@@ -87,9 +87,7 @@ tech-solutions.exe = RUNNING
 ## █▓▒░ SYSTEM_STATS ░▒▓█
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=maverickOG&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maverickOG&theme=synthwave&hide_border=true" alt="GitHub Streak" width="48%">
-
+<img src="https://github-readme-stats.vercel.app/api?username=maverickOG&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maverickOG&theme=synthwave&hide_border=true" alt="GitHub Streak" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickOG&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 ## █▓▒░ CONTRIBUTION_LOGS ░▒▓█
