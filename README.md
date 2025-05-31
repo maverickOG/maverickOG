@@ -1,5 +1,7 @@
+<img src="https://images3.alphacoders.com/135/thumb-1920-1355025.jpeg" alt="Retro Workspace" width="100%">
+<br>
 
-```
+<!-- ```
  ███╗   ███╗ █████╗ ██╗   ██╗███████╗██████╗ ██╗ ██████╗██╗  ██╗
  ████╗ ████║██╔══██╗██║   ██║██╔════╝██╔══██╗██║██╔════╝██║ ██╔╝
  ██╔████╔██║███████║██║   ██║█████╗  ██████╔╝██║██║     █████╔╝ 
@@ -15,11 +17,8 @@
     ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
  
  DEVELOPER_MODE: [ACTIVE]
-```
+``` -->
 
-
-<img src="https://images3.alphacoders.com/135/thumb-1920-1355025.jpeg" alt="Retro Workspace" width="100%">
-<br>
 <code>SYSTEM BOOT: MAVERICK.EXE LOADED SUCCESSFULLY</code>
 
 ## █▓▒░ CURRENT_OPERATIONS ░▒▓█
@@ -30,15 +29,6 @@
 > SEEKING collaborative web development projects
 > LEARNING advanced full-stack architecture
 ```
-
-## █▓▒░ ACCESS_PROTOCOLS ░▒▓█
-
-<div>
-  <a href="https://instagram.com/riderprovidermav"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a> 
-  <a href="https://linkedin.com/in/heysajit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a> 
-  <a href="https://x.com/tednotswarley"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="Twitter"></a>
-  <a href="https://codepen.io/maverickOG"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
-</div>
 
 ## █▓▒░ ASK_ME_ABOUT ░▒▓█
 
@@ -59,8 +49,7 @@ tech-solutions.exe = RUNNING
 > Books.read
 ```
 
-## █▓▒░ TECH_LOADOUT ░▒▓█
-
+<!-- ## █▓▒░ TECH_LOADOUT ░▒▓█
 
 ### FRONTEND_ARSENAL
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,12 +73,6 @@ tech-solutions.exe = RUNNING
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## █▓▒░ SYSTEM_STATS ░▒▓█
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=maverickOG&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maverickOG&theme=synthwave&hide_border=true" alt="GitHub Streak" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickOG&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
 ## █▓▒░ CONTRIBUTION_LOGS ░▒▓█
 
 
@@ -100,7 +83,7 @@ tech-solutions.exe = RUNNING
 ## █▓▒░ RANDOM_DEV_QUOTE ░▒▓█
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ## █▓▒░ SUPPORT_PROTOCOLS ░▒▓█
 
@@ -109,7 +92,8 @@ tech-solutions.exe = RUNNING
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
 </a>
 
-<br><br>
+##
+
 ```
 ╔═════════════════════════════════════════╗
 ║ CONNECTION TERMINATED - SESSION CLOSED  ║
