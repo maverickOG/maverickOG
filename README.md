@@ -8,8 +8,6 @@ I enjoy building dynamic web apps with React, Tailwind, and Node, and solving pr
 
 Outside of work, I’m passionate about basketball, gaming, automobiles, motorcycles, and books — a mix that keeps me curious, creative, and grounded.
 
----
-
 ### Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverickog) [![Skrapy](https://img.shields.io/badge/Skrapy-00C853?style=for-the-badge&logo=leaflet&logoColor=white)](https://skrapy-gamma.vercel.app/)  
