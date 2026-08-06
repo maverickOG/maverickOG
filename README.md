@@ -10,7 +10,7 @@ Outside of work, I’m passionate about basketball, gaming, automobiles, motorcy
 
 ### Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heysajit)[![Masusu](https://img.shields.io/badge/Masusu-000000?style=for-the-badge&logo=briefcase&logoColor=white)](https://masusu.xyz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heysajit)[![Masusu](https://img.shields.io/badge/Luno Works-000000?style=for-the-badge&logo=briefcase&logoColor=white)](https://masusu.xyz/)
 <a href="https://buymeacoffee.com/maverickog">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
 </a>
